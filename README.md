@@ -1,4 +1,4 @@
-# Saurin's Website
+# Saurin Thakkar's Website
 
 
 This website is my personal portfolio.Here I showcase my skills and my projects.
